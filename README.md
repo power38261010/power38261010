@@ -2,6 +2,7 @@ Hi! I´m Alejandro Arrúa Alfonsso ![image](https://user-images.githubuserconten
  
 
 Computer Systems Analyst | Fullstack Developer
+
 I really enjoy constant learning, design and creativity, I am adaptable, I like good communication and teamwork, I like challenges.
 Some of my hobbies are video games 🎮 play soccer and listening to music 🎧
 I am currently develop in Sistemanube.com as a freelance and as a Systems Analyst in the General Directorate of Statistics and Finance of Entre Ríos, and looking for my new IT job, you can contact me by my email 📧: vp.arrua@gmail.com
