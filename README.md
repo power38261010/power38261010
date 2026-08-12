@@ -18,7 +18,7 @@
 
 Soy Analista de Sistemas Informáticos y Desarrollador Web Fullstack. Desde el año 2018 me dedico profesionalmente al diseño, desarrollo y documentación de plataformas web, con experiencia en equipos ágiles, arquitectura de microservicios y desarrollo orientado a IA.
 
-- 🔭 Actualmente trabajando en **Glofy** (Senior Full Stack / Backend) y **Tecnosoftware** (Senior Systems Analyst / Full Stack).
+- 🔭 Actualmente trabajando en **Tecnosoftware** (Senior Systems Analyst / Full Stack).
 - 🤖 Integro **OpenAI GPT-4, Google Gemini y Mistral AI** en productos SaaS, y uso IA en mi flujo diario: Cursor, GitHub Copilot y Claude Code.
 - 💡 Disfruto los desafíos, aprender nuevas tecnologías y elegir el stack más adecuado para cada proyecto.
 - 🤝 Me considero proactivo, orientado a metas y comprometido con un ambiente de trabajo amigable.
@@ -79,21 +79,11 @@ Soy Analista de Sistemas Informáticos y Desarrollador Web Fullstack. Desde el a
 
 | Empresa | Rol | Periodo |
 |---|---|---|
-| **Glofy** | Senior Full Stack / Backend Engineer | Ago 2025 – Presente |
 | **Tecnosoftware** | Senior Systems Analyst / Full Stack Developer | Oct 2024 – Presente |
+| **Glofy** | Senior Full Stack / Backend Engineer | Ago 2025 |
 | **Invisible Geeks** | Software Engineer (AI & SaaS) | Ago 2024 – Jul 2026 |
 | **NewBitCrew** | Full Stack Developer / Tech Lead | Dic 2022 – Abr 2024 |
 | **Ejército Argentino** | Técnico IT & Desarrollador de Software | Sep 2014 – Jul 2022 |
-
-<details>
-<summary><b>Glofy</b> · Senior Full Stack / Backend Engineer · Ago 2025 – Presente</summary>
-
-- Evolución y mantenimiento de una plataforma **fintech**, optimizando la facturación mediante automatización.
-- Migración crítica de **MySQL a MySQL 8.4** y de **PHP 7.4 a PHP 8.4** con cero downtime.
-- Gestión de infraestructura en **AWS** y automatización de flujos con **Power Automate**.
-
-`PHP 8.4` `MySQL 8.4` `AWS` `Power Automate` `REST APIs`
-</details>
 
 <details>
 <summary><b>Tecnosoftware</b> · Senior Systems Analyst / Full Stack Developer · Oct 2024 – Presente</summary>
@@ -103,6 +93,16 @@ Soy Analista de Sistemas Informáticos y Desarrollador Web Fullstack. Desde el a
 - Arquitectura distribuida con WebHooks, WebSockets, Redis, MongoDB, AWS Lambda, Node.js y AWS X-Ray.
 
 `Node.js` `PHP 8` `AWS Lambda` `Redis` `PostgreSQL` `PL/SQL` `WebSockets`
+</details>
+
+<details>
+<summary><b>Glofy</b> · Senior Full Stack / Backend Engineer · Ago 2025</summary>
+
+- Evolución y mantenimiento de una plataforma **fintech**, optimizando la facturación mediante automatización.
+- Migración crítica de **MySQL a MySQL 8.4** y de **PHP 7.4 a PHP 8.4** con cero downtime.
+- Gestión de infraestructura en **AWS** y automatización de flujos con **Power Automate**.
+
+`PHP 8.4` `MySQL 8.4` `AWS` `Power Automate` `REST APIs`
 </details>
 
 <details>
