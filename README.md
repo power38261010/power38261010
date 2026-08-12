@@ -2,7 +2,7 @@
   <img src="https://github.com/power38261010/power38261010/assets/94117716/fa6eb6f9-6102-4802-a425-c602efefd3cb" width="70" />
 </p>
 
-<h1 align="center">¡Hola! Soy <span style="color:#a855f7">Alejandro Arrúa Alfonsso</span> 👋</h1>
+<h1 align="center">¡Hola! Soy <span style="color:#a855f7">Alejandro Arrúa</span> 👋</h1>
 
 <p align="center">
   <b>Analista de Sistemas Informáticos</b> &nbsp;·&nbsp; <b>Fullstack Developer</b> &nbsp;·&nbsp; <b>AI-Driven Engineering</b> 🚀
