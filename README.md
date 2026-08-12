@@ -152,15 +152,6 @@ Soy Analista de Sistemas Informáticos y Desarrollador Web Fullstack. Desde el a
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=power38261010&show_icons=true&count_private=true&hide_title=true&theme=radical&rank_icon=github&border_radius=10" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power38261010&layout=compact&hide_title=true&theme=radical&border_radius=10" alt="Lenguajes más usados" width="38%" />
-</p>
-
----
-
 ## 📬 Contacto
 
 <p align="center">
